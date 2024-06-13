@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Naoto-Fukumi&theme=onedark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
