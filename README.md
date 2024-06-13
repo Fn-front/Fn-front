@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fn-front&theme=gruvbox)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Fn-front&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fn-front&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fn-front&theme=gruvbox)
