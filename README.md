@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Fn-front&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fn-front&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fn-front&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fn-front&theme=gruvbox)
 
