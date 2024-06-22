@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-trophy.vercel.app/?username=Fn-front&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fn-front&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fn-front&theme=gruvbox&exclude=tsx,scss)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fn-front&theme=gruvbox&exclude=TypeScript)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fn-front&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fn-front&theme=gruvbox)
 
